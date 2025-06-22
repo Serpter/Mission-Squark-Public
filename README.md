@@ -15,10 +15,10 @@ Licensed under the All Rights Reserved.
 ## Table of Contents
 I apologise for having this halfway down the document by now.
 
-- Controls(#controls)
-- Backstory(#backstory)
-- Cool Things(#cool things)
-- How To Run (#how to run)
+- Controls
+- Backstory
+- Cool Things
+- How To Run
 
 ## Controls
 
