@@ -1,0 +1,34 @@
+using signature change:
+make all members and methods/functions CamelCase
+make all locals _pascalCase
+make all arguements/parameters pascalCase
+
+organise contents of headers by
+// Constructors and Destructors
+// Members
+// Methods
+// Type Methods
+// other scoped methods
+// Wrapped Functions
+// Virtual Pure Methods
+// Virtual 
+// Inherited via (Capitalised class)
+UNDER the access specifier
+and no indentations for private: and public: except properties
+
+organise includes via
+<SFML path includes>
+<std includes>
+# solution files
+
+seperate key sections in bodies with a blank line
+ensure no empty lines at top of bottom of bodies
+seperate individual definitions with 1 line
+no big white space blocks at end of file (except from 1 line, is optional)
+
+rename files that use assets as needed (if updating a lot of file names, that is)
+no silly variable names ever
+no silly comments when pushing. fine for local but remove before it reaches other's hands.
+
+comments have a space before and after the // and first letter is Capitalised ( // Some comment)
+if targeting a process, comment goes above and some gap must be visibly directly above the comment regardless of indentation. if targeting a decision or single declaration, comment goes beside.
